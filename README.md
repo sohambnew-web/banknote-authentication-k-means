@@ -153,7 +153,7 @@ banknote-kmeans/
 ## 👤 Author
 
 **Soham Bhagwat**
-- GitHub: [@Soham-data](https://github.com/sohambnew-web)
+- GitHub: [@Soham-data](https://github.com/iam-soham)
 
 ---
 
